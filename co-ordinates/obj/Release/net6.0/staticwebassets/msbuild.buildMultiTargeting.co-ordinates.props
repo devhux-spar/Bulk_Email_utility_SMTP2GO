@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\co-ordinates.props" />
+</Project>

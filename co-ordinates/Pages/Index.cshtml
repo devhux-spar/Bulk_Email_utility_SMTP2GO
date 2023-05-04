@@ -1,0 +1,40 @@
+﻿@page
+
+@model UploadModel
+
+<script src="~/js/my.js"></script>
+<h1>Bulk Email Mailer</h1>
+<h4>How to use this tool:</h4>
+<ul>
+<li>Log into your SMTP2GO account</li>
+<li>Create a new template under settings -> Templates</li>
+<li>Customize the template. You can also add personalized details for the template.<b>(Please note!!</b> This tool does not pass therough custom fields yet but will do so in the future. </li>
+<li>Get the template ID once you have saved and completed the customization.</li>
+<li>Add your Template ID in the textbox provided</li>
+<li>Upload and submit your file. Once done processing, the final list of emails sent will be downloaded in your browser</li>
+</ul>
+<br />
+<h4>Format of the excel file:</h4>
+<ul>
+<li>Column 1 -> Name or ID of location for your reference</li>
+<li>Column 2 -> Address of site that you require Lattitude and Longitude for</li>
+<li>Column 3 -> This should be blank. This will be filled with the lattitude of the location once uploaded</li>
+<li>Column 4 -> This should be blank. This will be filled with the longitude of the location once uploaded</li>
+<li>Headings can be added in row 1. The remaining document should be blank. </li>
+</ul>
+<form method="post" enctype="multipart/form-data">
+    <label for="TemplateID">Enter Template ID: </label>
+    <input type="text" name="TemplateID" label="TemplateID" />
+    <br />
+    <input type="file" name="file" />
+    <br /><br />
+    <button onclick="StartTimer()" type="submit">Upload</button>
+   <div>
+        <label id="myLabel" />
+    </div>
+
+<script>
+        StartTimer()
+</script> 
+
+</form>

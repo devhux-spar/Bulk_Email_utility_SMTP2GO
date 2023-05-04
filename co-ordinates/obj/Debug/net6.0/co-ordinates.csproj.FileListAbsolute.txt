@@ -1,0 +1,222 @@
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.csproj.AssemblyReference.cache
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.AssemblyInfoInputs.cache
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.AssemblyInfo.cs
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.csproj.CoreCompileInputs.cache
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.RazorAssemblyInfo.cache
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.RazorAssemblyInfo.cs
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\appsettings.json
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.staticwebassets.runtime.json
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.exe
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.deps.json
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.runtimeconfig.json
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.dll
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.pdb
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\staticwebassets\msbuild.co-ordinates.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\staticwebassets\msbuild.build.co-ordinates.props
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.co-ordinates.props
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.co-ordinates.props
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\scopedcss\bundle\co-ordinates.styles.css
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\scopedcss\projectbundle\co-ordinates.bundle.scp.css
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.dll
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\refint\co-ordinates.dll
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.pdb
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.genruntimeconfig.cache
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\ref\co-ordinates.dll
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\EPPlus.dll
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.csproj.CopyComplete
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\System.Net.WebSockets.WebSocketProtocol.dll
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\test-SingalR.Views.dll
+C:\Users\Devon\source\repos\co-ordinates\co-ordinates\bin\Debug\net6.0\test-SingalR.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\appsettings.json
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.staticwebassets.runtime.json
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.exe
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.deps.json
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.runtimeconfig.json
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.pdb
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\EPPlus.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.csproj.AssemblyReference.cache
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.AssemblyInfoInputs.cache
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.AssemblyInfo.cs
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.csproj.CoreCompileInputs.cache
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.RazorAssemblyInfo.cache
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.RazorAssemblyInfo.cs
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\scopedcss\bundle\co-ordinates.styles.css
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\scopedcss\projectbundle\co-ordinates.bundle.scp.css
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.csproj.CopyComplete
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\refint\co-ordinates.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.pdb
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.genruntimeconfig.cache
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\ref\co-ordinates.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\appsettings.Development.json
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\appsettings.json
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.staticwebassets.runtime.json
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.exe
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.deps.json
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.runtimeconfig.json
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\co-ordinates.pdb
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\EPPlus.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\RestSharp.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.csproj.AssemblyReference.cache
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.AssemblyInfoInputs.cache
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.AssemblyInfo.cs
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.csproj.CoreCompileInputs.cache
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.MvcApplicationPartsAssemblyInfo.cache
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.RazorAssemblyInfo.cache
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.RazorAssemblyInfo.cs
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\staticwebassets.build.json
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\staticwebassets.development.json
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\scopedcss\bundle\co-ordinates.styles.css
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\scopedcss\projectbundle\co-ordinates.bundle.scp.css
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.csproj.CopyComplete
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\refint\co-ordinates.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.pdb
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\co-ordinates.genruntimeconfig.cache
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\obj\Debug\net6.0\ref\co-ordinates.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\System.Web.Mvc.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\System.Web.Razor.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\System.Web.Helpers.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\System.Web.WebPages.dll
+E:\Dartelle\BuildIT\source\co-ordinates\co-ordinates\co-ordinates\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\appsettings.json
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\co-ordinates.staticwebassets.runtime.json
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\co-ordinates.exe
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\co-ordinates.deps.json
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\co-ordinates.runtimeconfig.json
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\co-ordinates.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\co-ordinates.pdb
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\EPPlus.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\Microsoft.Office.Interop.Excel.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\co-ordinates.csproj.AssemblyReference.cache
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\co-ordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\co-ordinates.AssemblyInfoInputs.cache
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\co-ordinates.AssemblyInfo.cs
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\co-ordinates.csproj.CoreCompileInputs.cache
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\co-ordinates.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\co-ordinates.RazorAssemblyInfo.cache
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\co-ordinates.RazorAssemblyInfo.cs
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\staticwebassets\msbuild.co-ordinates.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\staticwebassets\msbuild.build.co-ordinates.props
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.co-ordinates.props
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.co-ordinates.props
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\scopedcss\bundle\co-ordinates.styles.css
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\scopedcss\projectbundle\co-ordinates.bundle.scp.css
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\co-ordinates.csproj.CopyComplete
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\co-ordinates.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\refint\co-ordinates.dll
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\co-ordinates.pdb
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\co-ordinates.genruntimeconfig.cache
+C:\Users\Devon\source\repos\Co-ordinates Fixed\co-ordinates\obj\Debug\net6.0\ref\co-ordinates.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\co-ordinates.csproj.AssemblyReference.cache
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\co-ordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\co-ordinates.AssemblyInfoInputs.cache
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\co-ordinates.AssemblyInfo.cs
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\co-ordinates.csproj.CoreCompileInputs.cache
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\co-ordinates.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\co-ordinates.RazorAssemblyInfo.cache
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\co-ordinates.RazorAssemblyInfo.cs
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\co-ordinates.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\refint\co-ordinates.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\co-ordinates.pdb
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\appsettings.json
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\co-ordinates.staticwebassets.runtime.json
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\co-ordinates.exe
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\co-ordinates.deps.json
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\co-ordinates.runtimeconfig.json
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\co-ordinates.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\co-ordinates.pdb
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\EPPlus.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\System.Web.Mvc.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\System.Web.Razor.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\System.Web.Helpers.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\System.Web.WebPages.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\Microsoft.Office.Interop.Excel.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\RestSharp.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\staticwebassets\msbuild.co-ordinates.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\staticwebassets\msbuild.build.co-ordinates.props
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.co-ordinates.props
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.co-ordinates.props
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\scopedcss\bundle\co-ordinates.styles.css
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\scopedcss\projectbundle\co-ordinates.bundle.scp.css
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\co-ordinates.csproj.CopyComplete
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\co-ordinates.genruntimeconfig.cache
+C:\Users\Devon\source\repos\Email Send\co-ordinates\obj\Debug\net6.0\ref\co-ordinates.dll

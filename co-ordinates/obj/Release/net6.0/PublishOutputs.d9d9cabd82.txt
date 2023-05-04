@@ -1,0 +1,16 @@
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Release\net6.0\PubTmp\Out\co-ordinates.exe
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Release\net6.0\PubTmp\Out\co-ordinates.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Release\net6.0\PubTmp\Out\co-ordinates.deps.json
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Release\net6.0\PubTmp\Out\co-ordinates.runtimeconfig.json
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Release\net6.0\PubTmp\Out\co-ordinates.pdb
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Release\net6.0\PubTmp\Out\EPPlus.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Release\net6.0\PubTmp\Out\Microsoft.Win32.SystemEvents.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Release\net6.0\PubTmp\Out\RestSharp.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Release\net6.0\PubTmp\Out\System.Drawing.Common.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Release\net6.0\PubTmp\Out\System.Xml.XPath.XmlDocument.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Release\net6.0\PubTmp\Out\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Daryl.Swartz\Desktop\co-ordinates\co-ordinates\co-ordinates\obj\Release\net6.0\PubTmp\Out\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
